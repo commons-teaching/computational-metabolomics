@@ -2,7 +2,7 @@
 
 ## 👋 Hello !
 
-This repo groups material for the computational metabolomics workshop in the MSc in Bioinformatics - BEFRI
+This repo groups material for the computational metabolomics workshop in the [MSc in Bioinformatics - BEFRI](https://www.unifr.ch/bio/en/studies/master/msc-in-bioinformatics/)
 
 ## 🔗 Useful links
 
