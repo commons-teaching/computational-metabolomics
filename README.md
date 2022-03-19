@@ -4,11 +4,11 @@
 
 This repo groups material for the computational metabolomics workshop in the MSc in Bioinformatics - BEFRI
 
-## 🔗 Usefull links
+## 🔗 Useful links
 
 - Course material:
 
-  Most of the material is accessible at the following Zenodo repository: https://zenodo.org/record/6350485
+Most of the material is accessible at the following Zenodo repository: https://zenodo.org/record/6350485
 
 - Discussion and exchanges around the course :
 
